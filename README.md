@@ -1,4 +1,4 @@
-# Diseaseprediction
+# Disease prediction Using Machine Learning
 
 Disease prediction from symptoms.
 

@@ -13,7 +13,7 @@ Disease prediction from symptoms.
 	2.The system takes input from user and provides a list of probable diseases.
 
  ->  More about project:
-	1.Disease will be predicted using Naive Bayesian algorithm which works on probabilistic approach
+	1.Disease will be predicted using the Naive Bayesian algorithm which works on probabilistic approach
 	more specifically Multinomial NB since multiple symptoms are taken.  
 	2.According to literature survey, this algorithm results in maximum accuracy for larger dataset.
 	3.The dataset contains disease as labels and for each disease symptoms are given.
